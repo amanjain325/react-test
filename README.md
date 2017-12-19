@@ -5,9 +5,7 @@ You must install node and npm in your computer.
 ## Getting Started
 
 ### Clone the Repo
-
-https://github.com/amanjain325/react-test.git
-
+git clone https://github.com/amanjain325/react-test.git
 
 ### Installation
 
