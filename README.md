@@ -11,7 +11,7 @@ git clone https://github.com/amanjain325/react-test.git
 
 ### Installation
 
-Run this command:
+Run this command :
 
 ```sh
 cd react-test
